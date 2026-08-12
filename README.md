@@ -9,15 +9,9 @@ I'll learn so many real world tech's all along with our new buddies, AI's.
 
 
 - 1. **HTML 5, CSS 3**
- 
-   ![My Skills](https://skillicons.dev/icons?i=html,css)
    
 - 2. **Git & GitHub**
- 
-   ![My Skills](https://skillicons.dev/icons?i=git,github)
-
+    
 - 3. *JS (Learning)*
- 
-   ![My Skills](https://skillicons.dev/icons?i=JS,)
 
- 
+![My Skills](https://skillicons.dev/icons?i=html,css,git,github)
