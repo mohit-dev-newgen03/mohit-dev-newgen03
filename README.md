@@ -14,4 +14,4 @@ I'll learn so many real world tech's all along with our new buddies, AI's.
     
 - 3. *JS (Learning)*
 
-![My Skills](https://skillicons.dev/icons?i=html,css,git,github)
+![My Skills](https://skillicons.dev/icons?i=html,css,git,github,js)
