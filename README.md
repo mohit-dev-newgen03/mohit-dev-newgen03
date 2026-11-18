@@ -12,6 +12,8 @@ I'll learn so many real world tech's all along with our new buddies, AI's.
    
 - 2. **Git & GitHub**
     
-- 3. *JS (Learning)*
+- 3. **Java Script**
+ 
+- 4. *Python (Learning)*
 
 ![My Skills](https://skillicons.dev/icons?i=html,css,git,github,js)
